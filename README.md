@@ -1,0 +1,2 @@
+# Node-Passport-Login-Master
+Basic Sign-In, Sign-Up and Log-Out page where a person can where a person can sign-up using an email and password and then sign-in with the same email and password. If either the email or password does not match then an error will be shown. This project is made using Express(Routes and controllers), MongoDB, Moongoose, EJS and PassportJS. The authentication part is done using PassportJS and the data is stored using MongoDB &amp; Moongose.
